@@ -1,6 +1,5 @@
 ﻿// Hacer un programa para ingresar dos números y que luego emita por pantalla el mayor de ellos o un cartel aclaratorio “Son iguales” en el caso de que así sea.
 
-
 using System;
 
 namespace EJ3
