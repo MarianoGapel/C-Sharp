@@ -1,5 +1,4 @@
-﻿// Hacer un programa para solicitar por teclado un número y 
-// luego devolver su valor elevado al cubo.
+﻿// Hacer un programa para solicitar por teclado un número y luego devolver su valor elevado al cubo.
 
 
 using System;
