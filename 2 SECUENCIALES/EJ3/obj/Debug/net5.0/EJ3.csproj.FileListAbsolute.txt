@@ -1,0 +1,16 @@
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\bin\Debug\net5.0\EJ3.exe
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\bin\Debug\net5.0\EJ3.deps.json
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\bin\Debug\net5.0\EJ3.runtimeconfig.json
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\bin\Debug\net5.0\EJ3.runtimeconfig.dev.json
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\bin\Debug\net5.0\EJ3.dll
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\bin\Debug\net5.0\ref\EJ3.dll
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\bin\Debug\net5.0\EJ3.pdb
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\obj\Debug\net5.0\EJ3.csproj.AssemblyReference.cache
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\obj\Debug\net5.0\EJ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\obj\Debug\net5.0\EJ3.AssemblyInfoInputs.cache
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\obj\Debug\net5.0\EJ3.AssemblyInfo.cs
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\obj\Debug\net5.0\EJ3.csproj.CoreCompileInputs.cache
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\obj\Debug\net5.0\EJ3.dll
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\obj\Debug\net5.0\ref\EJ3.dll
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\obj\Debug\net5.0\EJ3.pdb
+C:\Mariano\GITHUB\C-Sharp\SECUENCIALES\EJ3\obj\Debug\net5.0\EJ3.genruntimeconfig.cache
