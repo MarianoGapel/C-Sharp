@@ -1,5 +1,4 @@
-﻿// Hacer un programa para ingresar por teclado las tres notas de exámenes de un alumno y luego calcule 
-// y emita por pantalla el promedio final.
+﻿// Hacer un programa para ingresar por teclado las tres notas de exámenes de un alumno y luego calcule sy emita por pantalla el promedio final.
 
 
 using System;

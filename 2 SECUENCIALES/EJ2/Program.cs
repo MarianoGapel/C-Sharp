@@ -1,7 +1,4 @@
-﻿// Hacer un programa que permita ingresar el año actual 
-// y el año de la fecha de nacimiento de una persona y luego 
-// calcule y emita por pantalla su edad.
-
+﻿// Hacer un programa que permita ingresar el año actual y el año de la fecha de nacimiento de una persona y luego calcule y emita por pantalla su edad.
 
 using System;
 
