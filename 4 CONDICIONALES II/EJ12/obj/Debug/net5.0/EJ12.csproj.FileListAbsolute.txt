@@ -1,0 +1,16 @@
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\bin\Debug\net5.0\EJ12.exe
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\bin\Debug\net5.0\EJ12.deps.json
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\bin\Debug\net5.0\EJ12.runtimeconfig.json
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\bin\Debug\net5.0\EJ12.runtimeconfig.dev.json
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\bin\Debug\net5.0\EJ12.dll
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\bin\Debug\net5.0\ref\EJ12.dll
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\bin\Debug\net5.0\EJ12.pdb
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\obj\Debug\net5.0\EJ12.csproj.AssemblyReference.cache
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\obj\Debug\net5.0\EJ12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\obj\Debug\net5.0\EJ12.AssemblyInfoInputs.cache
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\obj\Debug\net5.0\EJ12.AssemblyInfo.cs
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\obj\Debug\net5.0\EJ12.csproj.CoreCompileInputs.cache
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\obj\Debug\net5.0\EJ12.dll
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\obj\Debug\net5.0\ref\EJ12.dll
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\obj\Debug\net5.0\EJ12.pdb
+C:\Mariano\GITHUB\C-Sharp\4 CONDICIONALES II\EJ12\obj\Debug\net5.0\EJ12.genruntimeconfig.cache
