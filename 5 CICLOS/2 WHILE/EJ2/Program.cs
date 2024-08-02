@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Hacer un programa para mostrar los números del 10 al 1. No se debe realizar ningún pedido de datos. USANDO WHILE.
+
+using System;
 
 namespace EJ2
 {
@@ -6,7 +8,15 @@ namespace EJ2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int n;
+            n = 10;
+
+            while (n > 0)
+            {
+                Console.WriteLine(n); 
+                n--;   
+            }
+            
         }
     }
 }
