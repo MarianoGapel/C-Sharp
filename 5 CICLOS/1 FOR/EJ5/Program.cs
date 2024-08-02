@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Hacer un programa que muestre los números del 1 al 100 de 5 en 5. Ejemplo: 0, 5, 10, 15, 20.... 100.
+
+using System;
 
 namespace EJ5
 {
@@ -6,7 +8,11 @@ namespace EJ5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (int x = 0; x <= 100; x+= 5)
+            {
+                Console.WriteLine(x);    
+            }
+            
         }
     }
 }
