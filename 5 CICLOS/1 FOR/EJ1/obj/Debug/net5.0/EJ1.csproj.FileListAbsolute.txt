@@ -1,0 +1,16 @@
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\bin\Debug\net5.0\EJ1.exe
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\bin\Debug\net5.0\EJ1.deps.json
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\bin\Debug\net5.0\EJ1.runtimeconfig.json
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\bin\Debug\net5.0\EJ1.runtimeconfig.dev.json
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\bin\Debug\net5.0\EJ1.dll
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\bin\Debug\net5.0\ref\EJ1.dll
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\bin\Debug\net5.0\EJ1.pdb
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\obj\Debug\net5.0\EJ1.csproj.AssemblyReference.cache
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\obj\Debug\net5.0\EJ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\obj\Debug\net5.0\EJ1.AssemblyInfoInputs.cache
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\obj\Debug\net5.0\EJ1.AssemblyInfo.cs
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\obj\Debug\net5.0\EJ1.csproj.CoreCompileInputs.cache
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\obj\Debug\net5.0\EJ1.dll
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\obj\Debug\net5.0\ref\EJ1.dll
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\obj\Debug\net5.0\EJ1.pdb
+C:\Mariano\GITHUB\C-Sharp\5 CICLOS\1 FOR\EJ1\obj\Debug\net5.0\EJ1.genruntimeconfig.cache
