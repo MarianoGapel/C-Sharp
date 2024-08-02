@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Hacer un programa para mostrar los números del 10 al 1. No se debe realizar ningún pedido de datos.
+
+using System;
 
 namespace EJ4
 {
@@ -6,7 +8,11 @@ namespace EJ4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            for (int x = 10; x > 0; x--)
+            {
+                Console.WriteLine(x);    
+            }
+            
         }
     }
 }
